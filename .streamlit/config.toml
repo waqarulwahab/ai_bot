@@ -1,0 +1,9 @@
+[client]
+showSidebarNavigation = false
+
+
+
+[server]
+maxUploadSize  = 500  # Set this to the desired upload size in megabytes (e.g., 500 MB)
+maxMessageSize = 500  # Set this to the desired message size in megabytes (e.g., 500 MB)
+
